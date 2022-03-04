@@ -31,16 +31,22 @@ body{
     margin: 0 15px;
 }
 .navbar li a{
-    color: pink;
-    background-color: #fff;
-    text-decoration: none;
-    background-size: cover; 
-   
-}
-.navbar li a:hover{
-      color: blue;
-}
-.left-col{
     color: #fff;
-    font-size: 200px;
+    text-decoration: none;
+    background-size: cover;
+    font-size: 20px;
+    }
+.navbar li a:hover{
+      color: #F94892;
+}
+.heading {
+    color:#fff ;
+    font-size: 140px;
+}
+.heading:hover{
+      color:#FF87CA;
+}
+p{
+    color: #fff;
+    font-size: 30px;
 }
